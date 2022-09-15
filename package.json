@@ -1,0 +1,23 @@
+{
+  "name": "node_2-command",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "cli": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xunchang528/node-command.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xunchang528/node-command/issues"
+  },
+  "homepage": "https://github.com/xunchang528/node-command#readme"
+}
